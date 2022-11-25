@@ -10,6 +10,8 @@ namespace EJERCICIO1_ESTRUCTURA_SECUENCIAL
     {
         static void Main(string[] args)
         {
+            //MAIN O PROGRAMA PRINCIPAL PARA EJECUTAR MIS PROGRAMAS SECUNDARIOS(EJERCICIOS)
+            Ejercicio1.calcularAreaPerimetro();
         }
     }
 }
