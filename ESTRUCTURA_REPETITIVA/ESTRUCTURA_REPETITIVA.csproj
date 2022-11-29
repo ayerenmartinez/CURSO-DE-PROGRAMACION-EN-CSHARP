@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EJERCICIO1_ESTRUCTURA_SECUENCIAL\ESTRUCTURA_SECUENCIAL.csproj">
+      <Project>{e2020c1d-da38-46c4-9fed-a6b8fcdc1d78}</Project>
+      <Name>ESTRUCTURA_SECUENCIAL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

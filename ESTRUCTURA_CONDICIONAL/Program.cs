@@ -10,6 +10,7 @@ namespace ESTRUCTURA_CONDICIONAL
     {
         static void Main(string[] args)
         {
+            EJERCICIOS_APRENDIZAJE.Ejercicio1.determinarSueldoMayor();
         }
     }
 }

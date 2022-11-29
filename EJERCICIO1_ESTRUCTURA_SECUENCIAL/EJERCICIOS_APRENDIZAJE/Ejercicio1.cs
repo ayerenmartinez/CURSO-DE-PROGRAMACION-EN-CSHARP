@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EJERCICIO1_ESTRUCTURA_SECUENCIAL
 {
-    public class Ejercicio1
+    internal class Ejercicio1
     {
         public static void calcularAreaPerimetro()
         {
