@@ -10,7 +10,7 @@ namespace ESTRUCTURA_CONDICIONAL
     {
         static void Main(string[] args)
         {
-            EJERCICIOS_APRENDIZAJE.Ejercicio2.ingresarSN();
+            EJERCICIOS_APRENDIZAJE.Ejercicio5.pedirFrase();
         }
     }
 }
